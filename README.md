@@ -25,4 +25,4 @@
   Unauthorized theft, distribution and use of images, logos and text used in this project is prohibited.  
 <br/>
 
-<img width="400" alt="앱아이콘" src="https://user-images.githubusercontent.com/52696359/143640048-30896948-c34f-4fae-84c2-3fe992271d39.png">  
+<img width="400" alt="앱아이콘" float="center" src="https://user-images.githubusercontent.com/52696359/143640048-30896948-c34f-4fae-84c2-3fe992271d39.png">  
