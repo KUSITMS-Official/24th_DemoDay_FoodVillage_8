@@ -1,4 +1,4 @@
-# 24기 학술제 8조 푸드빌리지
+# 푸드빌리지
 ![issue badge](https://img.shields.io/badge/platform-Android-brightgreen)
 
 <img width="70" alt="앱아이콘" src="https://user-images.githubusercontent.com/52696359/143584504-86b7ace2-3824-4368-87d3-9b18fc47469b.png">  
