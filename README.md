@@ -1,7 +1,7 @@
 # 푸드빌리지(FoodVillage)
 ![issue badge](https://img.shields.io/badge/platform-Android-brightgreen)
 
-<img width="70" alt="앱아이콘" src="https://user-images.githubusercontent.com/52696359/143584504-86b7ace2-3824-4368-87d3-9b18fc47469b.png">  
+<img width="100" alt="앱아이콘" src="https://user-images.githubusercontent.com/52696359/143649389-4fb99468-d98e-4467-9a97-9681d7153218.png">  
 
 ### 🛠&nbsp;&nbsp;Development Environment / Language
 - Android Studio
